@@ -1,9 +1,7 @@
 ---
-title: Hello, Welcome
-description: An introduction to using the note feature in Astro Cactus
-publishDate: "2024-10-14T11:23:00Z"
+title: What I am reading.
+description: Current literary consumption.
+publishDate: "2026-03-06T06:06:00Z"
 ---
 
-Hi, Hello. This is an example note feature included with Astro Cactus.
-
-They're for shorter, concise "post's" that you'd like to share, they generally don't include headings, but hey, that's entirely up to you.
+Currently I am reading [Sceptical Essays](https://archive.org/details/scepticalessays0000unse_t8s7/mode/2up?q=sceptical+essays) by Bertrand Russell (1935).
